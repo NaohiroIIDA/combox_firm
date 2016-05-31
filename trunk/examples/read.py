@@ -336,7 +336,7 @@ class TagTool(CommandLineInterface):
                 print (cont[1:]);
                 print (ctime);
 
-                f = open('/home/root/JS/nfc.txt', 'w') # 書き込みモードで開く
+                f = open('/home/root/combox_firm/JS/nfc.txt', 'w') # 書き込みモードで開く
                 f.writelines(cont[3:] + ctime) # シーケンスが引数。
                 f.close()
 
