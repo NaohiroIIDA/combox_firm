@@ -1,5 +1,5 @@
 var chokidar = require('chokidar')
-var watcher = chokidar.watch('./JS/', {	//watch対象ディレクトリorファイル
+var watcher = chokidar.watch('/home/root/combox_firm/JS/', {	//watch対象ディレクトリorファイル
 	ignored: /[\/\\]\./,	//無視する対象
 	persistent:true	//監視を継続するかどうか
 	})
