@@ -23,7 +23,11 @@ nfcpyのダウンロード
 
 $ bzr branch lp:nfcpy
 
-遊び方
+ファイル監視用chokidar　インストール
+
+$npm install chokidar --save
+
+NFC遊び方
 
  python example/tagtool.py -l
  
