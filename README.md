@@ -25,5 +25,5 @@ $ bzr branch lp:nfcpy
 
 遊び方
 
- python example/tagtool -l
+ python example/tagtool.py -l
  
