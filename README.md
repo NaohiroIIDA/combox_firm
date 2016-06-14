@@ -22,3 +22,8 @@ wget https://launchpad.net/bzr/2.7/2.7.0/+download/bzr-2.7.0.tar.gz
 nfcpyのダウンロード
 
 $ bzr branch lp:nfcpy
+
+遊び方
+
+ python example/tagtool -l
+ 
