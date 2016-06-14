@@ -2,7 +2,11 @@
 
 
 Edisonでnfc
+
+
 pyusbインストール
+
+
 $ sudo pip install pyusb
 
 
